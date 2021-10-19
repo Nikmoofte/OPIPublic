@@ -8,6 +8,5 @@ public class Example
         double lit = 10;
         double gallons = lit / 4.546;
         System.out.println("in " + lit + " there is " + gallons + " gallons");
-        lit = lit;
     }
 }
